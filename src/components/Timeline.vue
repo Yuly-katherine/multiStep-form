@@ -7,7 +7,6 @@
         :key="step.number"
         class="flex items-start mb-4 last:mb-0"
       >
-        <!-- Círculo del paso -->
         <div 
           :class="getStepClasses(step.number)"
           class="w-8 h-8 flex-shrink-0"
@@ -43,7 +42,6 @@
         :key="step.number"
         class="flex items-center"
       >
-        <!-- Círculo del paso -->
         <div 
           :class="getStepClasses(step.number)"
         >
