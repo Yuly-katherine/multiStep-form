@@ -42,9 +42,12 @@ El proyecto está dividido en componentes reutilizables y una lógica clara cent
 ```bash
 git clone  https://github.com/Yuly-katherine/multiStep-form.git
 
+```
+
 2. Instala dependencias:
 ```bash
 npm install
+
 ```
 
 3. Ejecuta la app en modo desarrollo:
