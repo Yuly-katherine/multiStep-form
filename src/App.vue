@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen bg-gray-50 py-4 sm:py-8">>
+  <div class="min-h-screen bg-gray-50 py-4 sm:py-8">
     <MultiStepForm 
       :initial-data="formData"
       @step-change="handleStepChange"

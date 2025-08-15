@@ -23,7 +23,7 @@ El proyecto está dividido en componentes reutilizables y una lógica clara cent
 
 ### Vistas principales
 
-- **MultiStepForm**: Vista de bienvenida con un botón para comenzar.
+- **MultiStepForm**: Vista paso 1 del formulario.
 
 
 ### Componentes reutilizables
@@ -56,9 +56,9 @@ npm run dev
 
 ```
 
-## 💥 ¡¡A probar!!
+##  ¡¡A probar!!
 
 
 ## ✨ Autor
 
-Desarrollado con amor por Yuly Katherine Gómez 💖
+Desarrollado por Yuly Katherine Gómez 
